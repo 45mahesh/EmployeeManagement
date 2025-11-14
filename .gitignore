@@ -1,0 +1,28 @@
+
+---
+
+# 📄 **.gitignore**
+```gitignore
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE related
+/.idea/
+/.vscode/
+*.iml
+*.project
+*.classpath
+/.settings/
+
+# Build directories
+/bin/
+/target/
+
+# OS files
+.DS_Store
+Thumbs.db
