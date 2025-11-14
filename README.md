@@ -29,19 +29,19 @@ Perfect for showcasing backend fundamentals in job applications.
 ## 🧱 Project Architecture
 
 EmployeeManagement
-
 ├─ src
-│ ├─ model
-│ │ └─ Employee.java
-│ ├─ service
-│ │ └─ EmployeeService.java
-│ └─ Main.java
+│  ├─ model
+│  │  └─ Employee.java
+│  ├─ service
+│  │  └─ EmployeeService.java
+│  └─ Main.java
 ├─ docs
-│ └─ design.md
+│  └─ design.md
 ├─ .gitignore
 ├─ LICENSE
 ├─ CHANGELOG.md
 └─ ROADMAP.md
+
 ---
 
 ## ▶️ Running the Project
