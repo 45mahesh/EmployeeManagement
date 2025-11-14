@@ -37,8 +37,12 @@ EmployeeManagement
 ```sh
 javac src/model/Employee.java src/service/EmployeeService.java src/Main.java
 
+---
+
 ## Run
 java Main
+
+---
 
 ## 🧪 Future Enhancements
 - File/database storage
@@ -46,6 +50,8 @@ java Main
 - Menu-driven interface
 - Spring Boot REST API version
 - JUnit test cases
+
+---
 
 ## 🧑‍💻 Author
 Mahesh  
