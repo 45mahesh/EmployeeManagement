@@ -1,8 +1,8 @@
-\# Employee Management System (Java)
+# Employee Management System (Java)
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 Employee Management System is a simple Java console-based project demonstrating clean code, OOP concepts, and modular architecture.  
 
@@ -14,119 +14,59 @@ Perfect for showcasing backend fundamentals in job applications.
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Add Employees  
-
-\- View All Employees  
-
-\- Search Employee by ID  
-
-\- Clean layered structure  
-
-\- Uses Java Collections API  
-
-
+- Add Employees  
+- View All Employees  
+- Search Employee by ID  
+- Clean layered structure  
+- Uses Java Collections API  
 
 ---
 
 
 
-\## 🧱 Project Architecture
+## 🧱 Project Architecture
 
 EmployeeManagement
 
 ├─ src
-
 │ ├─ model
-
 │ │ └─ Employee.java
-
 │ ├─ service
-
 │ │ └─ EmployeeService.java
-
 │ └─ Main.java
-
 ├─ docs
-
 │ └─ design.md
-
 ├─ .gitignore
-
 ├─ LICENSE
-
 ├─ CHANGELOG.md
-
 └─ ROADMAP.md
-
-
-
 ---
 
+## ▶️ Running the Project
 
 
 
-
----
-
-
-
-\## ▶️ Running the Project
-
-
-
-\### \*\*Compile\*\*
+### \*\*Compile\*\*
 
 ```sh
 
 javac src/model/Employee.java src/service/EmployeeService.java src/Main.java
 
-
-
-
-
-\## Run
+## Run
 
 java Main
 
+## 🧪 Future Enhancements
 
+- File/database storage
+- Logging
+- Menu-driven interface
+- Spring Boot REST API version
+- JUnit test cases
 
-
-
-
-
-\## 🧪 Future Enhancements
-
-
-
-File/database storage
-
-
-
-Logging
-
-
-
-Menu-driven interface
-
-
-
-Spring Boot REST API version
-
-
-
-JUnit test cases
-
-
-
-
-
-
-
-\## 🧑‍💻 Author
-
-
+## 🧑‍💻 Author
 
 Mahesh
 
